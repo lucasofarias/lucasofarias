@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Farias
 
-- 👨‍💻 Cursando ensino superior em ADS
+- 👨‍💻 Cursando ensino superior em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando HTML5, CSS3 e Javascript
 - 👯 Procurando estágio em desenvolvimento web
 
