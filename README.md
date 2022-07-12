@@ -2,7 +2,7 @@
 
 - 👨‍💻 Cursando ensino superior em Análise e Desenvolvimento de Sistemas [3/6]
 - 🌱 Estudando HTML5, CSS3 e JavaScript
-- 👯 Procurando estágio na área de Desenvolvimento
+- 👯 Procurando estágio na área de Desenvolvimento Web
   
 <div align="center">
   <a href="https://github.com/rafaballerini">
