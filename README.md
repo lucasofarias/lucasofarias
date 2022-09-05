@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Lucas Farias!
 
 - 👨‍💻 Cursando ensino superior em Análise e Desenvolvimento de Sistemas - Fatec Rubens Lara [4/6]
-- 🌱 Atualmente estou estudando a linguagem de programação C#, e com ela estou aprendendo a Orientação a Objetos.
+- 🌱 Atualmente estou estudando a linguagem de programação C# e Java, e com elas estou aprendendo a Orientação a Objetos.
   
 <div align="center">
   <a href="https://github.com/rafaballerini">
