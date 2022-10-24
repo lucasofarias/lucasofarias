@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Lucas Farias!
 
 - 👨‍💻 Cursando ensino superior em Análise e Desenvolvimento de Sistemas - Fatec Rubens Lara [4/6]
-- 🌱 Atualmente estou estudando a linguagem de programação C# e Java.
   
 <div align="center">
   <a href="https://github.com/rafaballerini">
