@@ -3,8 +3,8 @@
 - 👨‍💻 System Analysis and Development Student - Fatec Rubens Lara [4/6]
   
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lucasofarias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasofarias&layout=compact&langs_count=7&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasofarias&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasofarias&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
