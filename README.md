@@ -15,7 +15,7 @@
 <div align="center">
   <p>「 👨‍💻 I'm a System Analysis and Development student 」</p>
   <p>「 I'm 19 years old, and I'm from Brazil 」</p>
-  <p>「 🌱 I'm currently learning JavaScript 」</p>
+  <p>「 🌱 I'm currently learning ASP.NET Core 5 」</p>
 </div><br>
 
 <div align="center">
