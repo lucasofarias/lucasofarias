@@ -1,6 +1,6 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=false&vCenter=true&width=1000&lines=Hey+there,+my+name+is+Lucas;I'm+a+software+development+intern;Learning+a+little+everyday;Be+Welcome!)](https://git.io/typing-svg)
 
-### These are the technologies I am working with 🧑🏻‍💻
+### These are the technologies I am working with 👨‍💻
 
 <div>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
